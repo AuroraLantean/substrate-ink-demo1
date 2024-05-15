@@ -71,6 +71,8 @@ To solve this you will need to restart your node and re-deploy any contracts
 
 
 ### TODO 
+https://use.ink/examples/smart-contracts
+
 inside https://github.com/use-ink/ink-examples:
 - basic_contract_ref ‒ Implements cross-contract calling.
 - trait-erc20 ‒ Defines a trait for Erc20 contracts and implements it.
